@@ -28,7 +28,7 @@
 | By Who | All |
 | 2 | ----- | Monday, November 2 |			
 | By Who | All |
-| 3 | ---- | Monday, October 23 |			
+| 3 | ---- | Monday, December 1 |			
 | By Who | All |
 
 ## Changes to Original Dates 
