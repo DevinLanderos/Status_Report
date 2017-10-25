@@ -7,10 +7,10 @@
 ## Devin
 * Rough Draft Documentation, Controls  
 
-## Cameron-
+## Cameron
 * 
 
-## Kesean-
+## Kesean
 * 
 
 
