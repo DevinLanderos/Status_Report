@@ -22,7 +22,7 @@
 *
 
 # What Has Been Completed 
-| # | Tasks Completed | Date |
+| # | Tasks Completed | Date of Completion |
 | --- | --- | --- |
 | 1 | ---- | Monday, October 23 |			
 | By Who | All |
@@ -31,9 +31,12 @@
 | 3 | ---- | Monday, December 1 |			
 | By Who | All |
 
-## Changes to Original Dates 
+## Additional Tasks 
 * None
 
-### Additional Tasks 
+### Changes to Original Dates 
 * None
+
+## General Notes 
+*
 
