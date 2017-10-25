@@ -4,9 +4,14 @@
 * None 
 
 # Team Assignments 
-* Name-  
-* Name-
-* Name-
+## Devin
+* Rough Draft Documentation, Controls  
+
+## Cameron-
+* 
+
+## Kesean-
+* 
 
 
 # Test Schedule
