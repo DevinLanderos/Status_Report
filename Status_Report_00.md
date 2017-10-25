@@ -1,5 +1,8 @@
 # Status Report 1
 
+# Game Selection
+* None
+
 ## Meetings:
 | # | Group Meeting Date | Time |	Location  |
 | --- | --- | --- | --- |
