@@ -1,3 +1,14 @@
+# Status Report 1
+
+# Game Selected 
+* None 
+
+# Team Assignments 
+* Name-  
+* Name-
+* Name-
+
+
 # Test Schedule
 
 ## Schedule by Week:
