@@ -5,7 +5,7 @@
 
 # Team Assignments 
 ## Devin
-* Rough Draft Documentation, Controls  
+* 
 
 ## Cameron
 * 
